@@ -1,0 +1,12 @@
+#menuheader{ background: url(../images/logo.png); background-repeat:no-repeat; background-position:center; margin:auto; width:auto;height:130px; text-align:center; z-index:999; }
+#desarrolloheader{ background:#80181c url(../images/desarrollobg.png); background-repeat:no-repeat; background-position:right; margin:auto; width:100%;height:33px; text-align:center; z-index:999; }
+#redesheader{ background:#80181c url(../images/redesbg.png); background-repeat:no-repeat; background-position:right; margin:auto; width:100%;height:33px; text-align:center; z-index:999; }
+#posicionamientoheader{ background:#80181c url(../images/posicionamientobg.png); background-repeat:no-repeat; background-position:right; margin:auto; width:100%;height:35px; text-align:center; z-index:999; }
+#designheader{ background:#80181c url(../images/disenobg.png); background-repeat:no-repeat; background-position:right; margin:auto; width:100%;height:33px; text-align:center; z-index:999; }
+#contactoheader{ background:#80181c  url(../images/contactobg.png); background-repeat:no-repeat; background-position:center; margin:auto; width:100%; height:33px; text-align:center; z-index:999; height:33px; }
+.maintitles{color:#fff; font-size: 24px; text-align: center; text-decoration: none; text-shadow:none; padding-top:10px; padding-bottom:10px; text-indent:-45px;}
+.gallery { list-style: none; padding: 0; margin: 0; }
+.gallery:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+.gallery li { float: left; width: 33.33333333%; }
+.gallery li a { display: block; margin: 5px; border: 1px solid #3c3c3c; }
+.gallery li img { display: block; width: 100%; height: auto; }
